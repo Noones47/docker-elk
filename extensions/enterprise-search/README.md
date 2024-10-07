@@ -139,6 +139,6 @@ Docker container: [Running Enterprise Search Using Docker][enterprisesearch-dock
 [enterprisesearch-docs]: https://www.elastic.co/guide/en/enterprise-search/current/index.html
 [enterprisesearch-kb]: https://www.elastic.co/guide/en/kibana/current/enterprise-search-settings-kb.html
 
-[es-security]: https://www.elastic.co/guide/en/elasticsearch/reference/current/security-settings.html#api-key-service-settings
+[es-security]: https://www.elastic.co/guide/en/elasticsearch/reference/current/security-settings.html#api-key-service-settingx
 [config-es]: ../../elasticsearch/config/elasticsearch.yml
 [config-kbn]: ../../kibana/config/kibana.yml
